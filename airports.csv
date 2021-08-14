@@ -1,0 +1,68 @@
+IATA,AIRPORT,CITY,STATE,COUNTRY,LATITUDE,LONGITUDE,CONNECTEDAIRPORT
+ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64044444,-84.42694444,"BNA, BOS, BWI, CHS, CLE, CMH, DCA, DFW, DTW, EWR, IAD, FLL, IAH, IND, JAX, JFK, LIT, MCI, MCO, MIA, MSY, ORD, ORF, PHL, PHX, PIT, RDU, RIC, RSW, SAT, SDF, SEA, SFO, SJU, SLC, TPA, AGS, BTR, EYW, GRB, GSO, GSP, HSV, JAN, LEX, PNS, SAV, STT, XNA"
+BNA,Nashville International,Nashville,TN,USA,36.12447667,-86.67818222,ATL
+BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.3643475,-71.00517917,ATL
+BWI,Baltimore-Washington International,Baltimore,MD,USA,39.17540167,-76.66819833,ATL
+CHS,Charleston AFB International,Charleston,SC,USA,32.89864639,-80.04050583,ATL
+CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41089417,-81.84939667,ATL
+CLT,Charlotte Douglas International,Charlotte,NC,USA,35.21401111,-80.94312583,ATL
+CMH,Port Columbus Intl,Columbus,OH,USA,39.99798528,-82.89188278,ATL
+DAL,Dallas Love ,Dallas,TX,USA,32.84711389,-96.85177222,ATL
+DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85208333,-77.03772222,ATL
+DEN,Denver Intl,Denver,CO,USA,39.85840806,-104.6670019,ATL
+DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372,ATL
+DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21205889,-83.34883583,ATL
+EWR,Newark Intl,Newark,NJ,USA,40.69249722,-74.16866056,ATL
+FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07258333,-80.15275,ATL
+IAD,Washington Dulles International,Chantilly,VA,USA,38.94453194,-77.45580972,ATL
+IAH,George Bush Intercontinental,Houston,TX,USA,29.98047222,-95.33972222,ATL
+IND,Indianapolis International,Indianapolis,IN,USA,39.71732917,-86.29438417,ATL
+JAX,Jacksonville International,Jacksonville,FL,USA,30.49405556,-81.68786111,ATL
+JFK,John F Kennedy Intl,New York,NY,USA,40.63975111,-73.77892556,ATL
+LAS,McCarran International,Las Vegas,NV,USA,36.08036111,-115.1523333,ATL
+LAX,Los Angeles International,Los Angeles,CA,USA,33.94253611,-118.4080744,ATL
+LGA,LaGuardia,New York,NY,USA,40.77724306,-73.87260917,ATL
+MCI,Kansas City International,Kansas City,MO,USA,39.29760528,-94.71390556,ATL
+MCO,Orlando International,Orlando,FL,USA,28.42888889,-81.31602778,ATL
+MIA,Miami International,Miami,FL,USA,25.79325,-80.29055556,ATL
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88054694,-93.2169225,ATL
+MSY,New Orleans International ,New Orleans,LA,USA,29.99338889,-90.25802778,ATL
+OGG,Kahului,Kahului,HI,USA,20.89864972,-156.4304578,ATL
+ORD,Chicago O'Hare International,Chicago,IL,USA,41.979595,-87.90446417,ATL
+ORF,Norfolk International,Norfolk,VA,USA,36.89461111,-76.20122222,ATL
+PDX,Portland Intl,Portland,OR,USA,45.58872222,-122.5975,ATL
+PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87195278,-75.24114083,ATL
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43416667,-112.0080556,ATL
+PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49146583,-80.23287083,ATL
+RDU,Raleigh-Durham International,Raleigh,NC,USA,35.87763889,-78.78747222,ATL
+RIC,Richmond International,Richmond,VA,USA,37.50516667,-77.31966667,ATL
+RSW,Southwest Florida International,Ft. Myers,FL,USA,26.53616667,-81.75516667,ATL
+SAT,San Antonio International,San Antonio,TX,USA,29.53369444,-98.46977778,ATL
+SDF,Louisville International-Standiford ,Louisville,KY,USA,38.17438889,-85.736,ATL
+SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.44898194,-122.3093131,ATL
+SFO,San Francisco International,San Francisco,CA,USA,37.61900194,-122.3748433,ATL
+SJU,Luis Munoz Marin International,San Juan,PR,USA,18.43941667,-66.00183333,ATL
+SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.78838778,-111.9777731,ATL
+TPA,Tampa International ,Tampa,FL,USA,27.97547222,-82.53325,ATL
+AGS,Bush ,Augusta,GA,USA,33.369955,-81.96449611,ATL
+BET,Bethel,Bethel,AK,USA,60.77977639,-161.8379975,ATL
+BRW,Wiley Post Will Rogers Memorial,Barrow,AK,USA,71.2854475,-156.7660019,ATL
+BTR,Baton Rouge Metropolitan,Baton Rouge,LA,USA,30.53316083,-91.14963444,ATL
+CDV,Merle K (Mudhole) Smith,Cordova,AK,USA,60.49183389,-145.4776503,ATL
+DLG,Dillingham,Dillingham,AK,USA,59.0454125,-158.5033389,ATL
+EYW,Key West International,Key West,FL,USA,24.55611111,-81.75955556,ATL
+FAI,Fairbanks International,Fairbanks,AK,USA,64.8136775,-147.8596694,ATL
+GRB,Austin Straubel International,Green Bay,WI,USA,44.48507333,-88.12959,ATL
+GSO,Piedmont Triad International,Greensboro,NC,USA,36.09774694,-79.9372975,ATL
+GSP,Greenville-Spartanburg,Greer,SC,USA,34.89566722,-82.21885833,ATL
+HSV,Huntsville International ,Huntsville,AL,USA,34.6404475,-86.77310944,ATL
+JAN,Jackson International,Jackson,MS,USA,32.31116667,-90.07588889,ATL
+JNU,Juneau International,Juneau,AK,USA,58.35496194,-134.5762764,ATL
+LEX,Blue Grass ,Lexington,KY,USA,38.03697222,-84.60538889,ATL
+OTZ,Ralph Wien Memorial,Kotzebue,AK,USA,66.88467694,-162.5985497,ATL
+PNS,Pensacola Regional,Pensacola,FL,USA,30.47330556,-87.18744444,ATL
+SAV,Savannah International,Savannah,GA,USA,32.12758333,-81.20213889,ATL
+SCC,Deadhorse,Deadhorse,AK,USA,70.19475583,-148.4651608,ATL
+SIT,Sitka,Sitka,AK,USA,57.04713806,-135.3615983,ATL
+STT,Cyril E. King,Charlotte Amalie,VI,USA,18.33730556,-64.97336111,ATL
+XNA,Northwest Arkansas Regional,Fayetteville Springdale Rogers,AR,USA,36.28186944,-94.30681111,ATL
